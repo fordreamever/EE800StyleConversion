@@ -13,7 +13,8 @@ The model 'vgg-verydeep-19' is also included in /data.
 
 
 
-# How to train & test
+How to train & test
+
 1.You may compile matconvnet first by running gpu_compile.m  (you need to change some setting in it)
 
 For more compile information, you can learn it from www.vlfeat.org/matconvnet/install/#compiling
