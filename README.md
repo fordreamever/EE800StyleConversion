@@ -1,16 +1,16 @@
-# 2016_Art_Style
-A Neural Algorithm of Artistic style arXiv:1508.06576v2
+Image Style Conversion
+
+Introduction
+
+Super resolution convolutional neural network (SRCNN) is end-to-end mapping between LR images and corresponding HR images. 
+SRCNN has experimentally verified that adjusting the number of network’s layer, 
+the size of filter and the number of filters in each layer can have effect on reconstruction results.
 
 I include train and test code in master branch.
 The model 'vgg-verydeep-19' is also included in /data.
 (Your GPU memory should >= 6GB)
 
 
-# Result
-![](https://github.com/layumi/2016_Artist_Style/blob/master/4.jpg)
- 
-![](https://github.com/layumi/2016_Artist_Style/blob/master/1.jpg) 
-![](https://github.com/layumi/2016_Artist_Style/blob/master/demo.jpg) 
 
 
 # How to train & test
